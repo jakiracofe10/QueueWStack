@@ -1,3 +1,0 @@
-C:/Users/Jason/ClionProjects/QueueWithStacks/cmake-build-debug/CMakeFiles/QueueWithStacks.dir
-C:/Users/Jason/ClionProjects/QueueWithStacks/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Jason/ClionProjects/QueueWithStacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
